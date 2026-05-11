@@ -50,19 +50,6 @@ I’m a developer who loves the intersection of **clean code** and **secure arch
 
 ---
 
-### 📊 Performance Metrics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GofforovAzizbek&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GofforovAzizbek&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GofforovAzizbek&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakNum=ffffff&sideLabels=ffffff" width="100%" />
-</p>
-
----
-
 ### 📡 Digital Footprint
 
 <div align="center">
